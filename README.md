@@ -1,16 +1,25 @@
-### Hi there 👋
+# About me
 
-<!--
-**alejandro-piguave/alejandro-piguave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Alejandro Piguave. I am a 21 y.o. university student and mobile developer from Madrid, Spain. I have a huge passion for software development, learning languages, and exercising.
 
-Here are some ideas to get you started:
+## A timeline of my work
+I got interested in programming in late 2014 and in 2015 I decided to learn Java because I wanted to make a Minecraft mod. After I learned the basics, I decided to take the Android development route instead. Over the next 5 years, I would develop Android applications in my free time. 
+### Some of my personal projects
+* [Bug](https://play.google.com/store/apps/details?id=com.electribolt.bug&hl=es&gl=US) (Feb 2015 - May 2015)
+* [Maze Escape](https://play.google.com/store/apps/details?id=com.electribolt.mazescape&hl=es&gl=US) (Jul 2015 - Oct 2015)
+* [Marcianito Invaders](https://play.google.com/store/apps/details?id=com.electribolt.marcianito&hl=es&gl=US) (Feb 2015 - Mar 2017)
+* [Marcianito GO](https://play.google.com/store/apps/details?id=com.alexpi.marcianitogo&hl=es&gl=US) (Aug 2016 - Jul 2019)
+* [2048i](https://play.google.com/store/apps/details?id=com.alexpi.game2048&hl=es&gl=US) (Feb 2017 - Mar 2017)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+After that, I worked as an Android engineer at Ciber Experis from February 2020 to April 2021 and at Accenture from April 2021 until September 2021, when I left to focus on finishing my [degree in Mathematics and Informatics](https://www.fi.upm.es/?id=gradomatematicasinformatica&idioma=english) at Polytechnic University of Madrid, where I am in my junior year currently.
+
+Meanwhile, I've mainly worked on open-source projects focusing on improving the quality of my code and learning new technologies. Here are some examples:
+
+* [TinderCloneSwiftUI](https://github.com/alejandro-piguave/TinderCloneSwiftUI)
+* [TinderBackendSpringBoot](https://github.com/alejandro-piguave/TinderBackendSpringBoot)
+* [Awesome Tanks](https://github.com/alejandro-piguave/AwesomeTanks)
+
+I am currently working on a Jetpack Compose version of the Tinder clone. The source will be made public once I considered it to be mostly finished.
+
+You can contact me at my e-mail address alejandro.piguave.illescas@gmail.com or at my [Linkedin](https://www.linkedin.com/in/alejandro-piguave-007619192/) profile.
+
