@@ -1,6 +1,6 @@
 # About me
 
-Hi, my name is Alejandro Piguave. I am a 21 y.o. university student and mobile developer from Madrid, Spain. I have a huge passion for software development, learning languages, and exercising.
+Hi, my name is Alejandro Piguave. I am a 21 y.o. university student and mobile developer from Madrid, Spain. My most used languages are Java, Kotlin and Swift, but I've also worked with Dart, Javascript or Python.
 
 ## A timeline of my work
 I got interested in programming in late 2014 and in 2015 I decided to learn Java because I wanted to make a Minecraft mod. After I learned the basics, I decided to take the Android development route instead. Over the next 5 years, I would develop Android applications in my free time. 
@@ -19,7 +19,10 @@ Meanwhile, I've mainly worked on open-source projects focusing on improving the 
 * [TinderBackendSpringBoot](https://github.com/alejandro-piguave/TinderBackendSpringBoot)
 * [Awesome Tanks](https://github.com/alejandro-piguave/AwesomeTanks)
 
-I am currently working on a Jetpack Compose version of the Tinder clone. The source will be made public once I considered it to be mostly finished.
+### I am currently working on...
+* A Jetpack Compose version of the Tinder clone. The source will be made public once it's finished.
+* A new release of Marcianito GO with online functionalities using Firebase.
+* Learning Flutter
 
 You can contact me at my e-mail address alejandro.piguave.illescas@gmail.com or at my [Linkedin](https://www.linkedin.com/in/alejandro-piguave-007619192/) profile.
 
