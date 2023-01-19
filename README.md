@@ -20,7 +20,7 @@ Meanwhile, I've mainly worked on open-source projects focusing on improving the 
 * [Awesome Tanks 🔫](https://github.com/alejandro-piguave/AwesomeTanks)
 
 ### I am currently working on... 👉
-* A Jetpack Compose version of the Tinder clone.
+* A [Jetpack Compose version](https://github.com/alejandro-piguave/TinderCloneCompose) of the SwiftUI Tinder clone.
 * A new release of Marcianito GO with online functionalities using Firebase.
 * Learning Flutter
 
