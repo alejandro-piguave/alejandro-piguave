@@ -24,5 +24,5 @@ Meanwhile, I've mainly worked on open-source projects focusing on improving the 
 * A new release of Marcianito GO with online functionalities using Firebase.
 * Learning Flutter
 
-You can contact me at alejandro.piguave.illescas@gmail.com or at my [Linkedin](https://www.linkedin.com/in/alejandro-piguave-007619192/) profile.
+You can contact me at a.piguave.illescas@gmail.com or at my [Linkedin](https://www.linkedin.com/in/alejandro-piguave-007619192/) profile.
 
