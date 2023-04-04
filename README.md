@@ -1,6 +1,6 @@
 # About me
 
-Hi👋, my name is Alejandro Piguave. I am a 21 y.o. university student📚 and mobile developer👨‍💻 from Madrid, Spain 🇪🇸. My most used languages are Java, Kotlin and Swift, but I've also worked with Dart, Javascript and Python.
+Hi👋, my name is Alejandro Piguave. I am a 21 y.o. university student📚 and mobile developer👨‍💻 from Madrid, Spain 🇪🇸. My most used languages are Java, Kotlin and Swift, but I've also worked with Javascript and Python.
 
 ## A timeline of my work 💼
 I got interested in programming in late 2014 and in 2015 I started to learn Java because I wanted to make a Minecraft mod. After I learned the basics, I decided to take the Android development route instead. Over the next 5 years, I would develop Android applications in my free time. 
@@ -15,14 +15,11 @@ After that, I worked as an Android engineer at Ciber Experis from February 2020 
 
 Meanwhile, I've mainly worked on open-source projects focusing on improving the quality of my code and learning new technologies. Here are some examples:
 
+* [TinderCloneCompose 🔥](https://github.com/alejandro-piguave/TinderCloneCompose)
 * [TinderCloneSwiftUI 🔥](https://github.com/alejandro-piguave/TinderCloneSwiftUI)
 * [TinderSpringBoot 🔙](https://github.com/alejandro-piguave/TinderBackendSpringBoot)
 * [Awesome Tanks 🔫](https://github.com/alejandro-piguave/AwesomeTanks)
 
-### I am currently working on... 👉
-* A [Jetpack Compose version](https://github.com/alejandro-piguave/TinderCloneCompose) of the SwiftUI Tinder clone.
-* A new release of Marcianito GO with online functionalities using Firebase.
-* Learning Flutter
 
 You can contact me at a.piguave.illescas@gmail.com or at my [Linkedin](https://www.linkedin.com/in/alejandro-piguave-007619192/) profile.
 
