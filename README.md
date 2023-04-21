@@ -1,6 +1,6 @@
 # About me
 
-Hi👋, my name is Alejandro Piguave. I am a 21 y.o. university student📚 and mobile developer👨‍💻 from Madrid, Spain 🇪🇸. My most used languages are Java, Kotlin and Swift, but I've also worked with Javascript and Python.
+Hi👋, my name is Alejandro Piguave. I am a mobile developer👨‍💻 from Madrid, Spain 🇪🇸. My most used languages are Java, Kotlin and Swift.
 
 ## A timeline of my work 💼
 I got interested in programming in late 2014 and in 2015 I started to learn Java because I wanted to make a Minecraft mod. After I learned the basics, I decided to take the Android development route instead. Over the next 5 years, I would develop Android applications in my free time. 
