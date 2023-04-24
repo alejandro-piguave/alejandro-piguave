@@ -19,7 +19,3 @@ Meanwhile, I've been working on open-source projects focusing on improving the q
 * [TinderCloneSwiftUI 🔥](https://github.com/alejandro-piguave/TinderCloneSwiftUI)
 * [TinderSpringBoot 🔙](https://github.com/alejandro-piguave/TinderBackendSpringBoot)
 * [Awesome Tanks 🔫](https://github.com/alejandro-piguave/AwesomeTanks)
-
-
-You can contact me at a.piguave.illescas@gmail.com or at my [Linkedin](https://www.linkedin.com/in/alejandro-piguave-007619192/) profile.
-
