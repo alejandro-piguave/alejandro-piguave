@@ -19,4 +19,4 @@ Meanwhile, I've been working on some open-source side projects where I focus on 
 * [TinderCloneSwiftUI 🔥](https://github.com/alejandro-piguave/TinderCloneSwiftUI)
 * [Awesome Tanks 🔫](https://github.com/alejandro-piguave/AwesomeTanks)
 
-I currently work as an Android engineer at Globant. 
+I currently work as an Android engineer at Globant and study Software Engineering at Polytechnic University of Madrid.
