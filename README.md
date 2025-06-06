@@ -13,7 +13,7 @@ I'm an Android developer with 2.5 years of enterprise experience, passionate abo
 * [TinderCloneSwiftUI 🔥](https://github.com/alejandro-piguave/TinderCloneSwiftUI)
 * [Awesome Tanks 🔫](https://github.com/alejandro-piguave/AwesomeTanks)
 
-## Languages
+## 🌍 Languages
 
 - Spanish (Native)
 - English (C1)
@@ -21,5 +21,5 @@ I'm an Android developer with 2.5 years of enterprise experience, passionate abo
 - Portuguese (B2)
 - French (Conversational)
 
-## Connect with Me
+## 📫 Connect with Me
 * [Linkedin](https://www.linkedin.com/in/alejandro-piguave-007619192/)
