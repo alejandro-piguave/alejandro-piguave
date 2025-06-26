@@ -1,6 +1,6 @@
 # Hi, I'm Alejandro 👋
 
-I'm an Android developer with 2.5 years of enterprise experience, passionate about building robust mobile applications and exploring new technologies. While my main focus is on Android development using Kotlin and Java, I also enjoy dabbling in iOS and web development during my free time. I currently study Software Engineering at Polytechnic University of Madrid.
+I'm an Android developer with 3 years of enterprise experience, passionate about building robust mobile applications and exploring new technologies. While my main focus is on Android development using Kotlin and Java, I also enjoy dabbling in iOS and web development during my free time. I currently study Software Engineering at Polytechnic University of Madrid.
 
 ## 🚀 Skills
 - Kotlin & Java
