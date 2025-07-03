@@ -1,6 +1,6 @@
 # Hi, I'm Alejandro 👋
 
-I'm a software developer, passionate about building robust mobile applications and exploring new technologies. While my main focus is on Android development, I also enjoy dabbling in iOS and web development during my free time. I currently study Software Engineering at Polytechnic University of Madrid.
+I'm a software developer, passionate about building robust mobile applications and exploring new technologies. While my main focus is on Android development, I also enjoy learning about iOS and web development during my free time. I currently study Software Engineering at Polytechnic University of Madrid.
 
 ## 🚀 Skills
 - Kotlin & Java
